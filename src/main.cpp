@@ -15,12 +15,13 @@ void Menu()
     int selection = 0;
 
     cout << "Welcome To The Weather App!\n" << endl;
-    cout<<"1. Display Data" << endl;
-    cout<<"2. Load Data" << endl;
+    cout<<"1. Insert weather data (txt file)" << endl;
+    cout<<"2. Overall data statistics" << endl;
     cout<<"3. Add Data" << endl;
     cout<<"4. Search Date"<< endl;
-    cout<<"5. Modify Data" << endl;
-    cout<<"6. Exit" << endl;
+    cout<<"5. Monthly statistics"<< endl
+    cout<<"6. Total rainfall" << endl;
+    cout<<"7. Exit" << endl;
 
     cin >> selection;
     cin.ignore();
@@ -29,7 +30,7 @@ void Menu()
     {
         DisplayData();
     }
-    if(selection == 6)
+    if(selection == 7)
     {
         return;
     }
