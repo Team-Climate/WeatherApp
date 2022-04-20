@@ -2,12 +2,15 @@ Original App Design Project - README Template
 ===
 
 # WeatherApp
+![Weather Patterns](https://user-images.githubusercontent.com/96958674/164300424-4db609b5-6757-4ade-870b-e91e62c0bd8b.jpg)
+
 
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 
 ## Overview
+
 ### Description
 WeatherApp assist users to generate statistic report for previous weather trends.
 
@@ -29,4 +32,41 @@ Using the ncde.noaa data set, we inputed the data sets for different months of t
    * Total rainfall
    * Summary of monthly weather
    * Quit
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https:.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [recordit](https://recordit.co).
+
+
+## Open-source data-sets used
+
+- [NOAA](https://www.ncdc.noaa.gov/cdo-web/quickdata) (October) - Weather data set for October
+- [NOAA](https://www.ncdc.noaa.gov/cdo-web/quickdata) (November) - Weather data set for November
+- [NOAA](https://www.ncdc.noaa.gov/cdo-web/quickdata) (December) - Weather data set for December
+
+
+## Data Structures used
+- Vector Array
+- Bubblesort
+
+## License
+
+    Copyright [2022] [Team Climate: Emmanuel Onung, Shakelle Meddow, Deonte Buckner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
