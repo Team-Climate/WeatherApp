@@ -45,9 +45,9 @@ GIF created with [recordit](https://recordit.co).
 
 ## Open-source data-sets used
 
-- [NOAA-October](https://www.ncdc.noaa.gov/cdo-web/quickdata) (October) - Weather data set for October
-- [NOAA-November](https://www.ncdc.noaa.gov/cdo-web/quickdata) (November) - Weather data set for November
-- [NOAA-December](https://www.ncdc.noaa.gov/cdo-web/quickdata) (December) - Weather data set for December
+- [NOAA-October](https://www.ncdc.noaa.gov/cdo-web/quickdata) (October) - Used to get weather data set for October
+- [NOAA-November](https://www.ncdc.noaa.gov/cdo-web/quickdata) (November) -Used to get weather data set for November
+- [NOAA-December](https://www.ncdc.noaa.gov/cdo-web/quickdata) (December) - Used to get weather data set for December
 
 
 ## Data Structures used
