@@ -52,7 +52,8 @@ GIF created with [recordit](https://recordit.co).
 
 ## Data Structures used
 - Vector Array
-- Bubblesort
+- Linked list
+- Bubble sort
 
 ## License
 
