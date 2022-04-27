@@ -21,7 +21,7 @@ WeatherApp assist users to generate statistic report for previous weather trends
 - **Scope:** Possible to finish within a month
 
 ### Problem Statement 
-Using the ncde.noaa data set, we inputed the data sets for different months of the year to depict the trends of previous weather so as to forecast upcoming weather trend for that month.
+Using the ncde.noaa data set, we inputted the data sets for different months of the year to depict the trends of previous weather so as to forecast upcoming weather trend for that month.
 
 ## Product Spec
 * [Main Screen]
