@@ -37,7 +37,7 @@ Using the ncde.noaa data set, we inputted the data sets for different months of 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/K9W83wkrh9https://recordit.co/K9W83wkrh9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/K9W83wkrh9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [recordit](https://recordit.co).
 
